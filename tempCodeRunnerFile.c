@@ -1,0 +1,1 @@
+printf("total election : %d\n",te2);
