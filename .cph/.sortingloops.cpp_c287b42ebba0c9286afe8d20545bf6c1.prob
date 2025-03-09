@@ -1,0 +1,1 @@
+{"name":"Local: sortingloops","url":"d:\\coding\\problem_solving_2\\sortingloops.cpp","tests":[{"id":1741519945752,"input":"5\n1 8 5 7 5","output":"8"},{"id":1741519977544,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\problem_solving_2\\sortingloops.cpp","group":"local","local":true}
